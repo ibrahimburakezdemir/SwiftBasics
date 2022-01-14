@@ -5,5 +5,9 @@
         <page name='Variables'/>
         <page name='Sets'/>
         <page name='Dictionaries'/>
+        <page name='Loops'/>
+        <page name='Conditions'/>
+        <page name='Functions'/>
+        <page name='Optionals'/>
     </pages>
 </playground>
